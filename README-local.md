@@ -40,3 +40,8 @@ python lerobot/scripts/visualize_dataset.py \
 --save 1 \
 --output-dir .cache/result
 ```
+
+## image
+![image](https://github.com/Samge0/lerobot/assets/17336101/a1c44a5e-c28d-453a-8d8d-f636e56e4bdf)
+![image](https://github.com/Samge0/lerobot/assets/17336101/d74d5892-14d3-4547-a985-25f630352707)
+
