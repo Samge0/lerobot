@@ -149,3 +149,8 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# custom
+.cache/
+.devcontainer/docker-compose.yml
+lerobot/act_aloha_sim_transfer_cube_human
