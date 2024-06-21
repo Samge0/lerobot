@@ -1,6 +1,10 @@
 ## Local test
 
-reference url:[https://huggingface.co/lerobot/act_aloha_sim_transfer_cube_human](https://huggingface.co/lerobot/act_aloha_sim_transfer_cube_human)
+model reference url => [https://huggingface.co/lerobot/act_aloha_sim_transfer_cube_human](https://huggingface.co/lerobot/act_aloha_sim_transfer_cube_human)
+
+
+### Environment Configuration
+Recommendation: Use the `Dev Containers` mode in `VSCode`. Refer to [.devcontainer/README.md](.devcontainer/README.md).
 
 
 ### download model
@@ -85,7 +89,8 @@ python lerobot/scripts/visualize_dataset.py \
 
 
 ## log
-[wandb log 20240621](https://wandb.ai/samge/lerobot/runs/jhy9hmpq/logs?nw=nwusersamge)
+[view wandb logs 20240621](https://wandb.ai/samge/lerobot/runs/jhy9hmpq/logs?nw=nwusersamge)
+
 step_10000_eval (84%):
 
 success:

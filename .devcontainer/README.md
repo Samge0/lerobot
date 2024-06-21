@@ -11,23 +11,23 @@ cp .devcontainer/docker-compose-demo.yml .devcontainer/docker-compose.yml
 ### run .devcontainer/devcontainer.json
 the `Dev Containers` mode of vscode, refer to[vscode_devcontainer docs](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
 - install the `Dev Containers` plugin for vscode
-- shortcut key 'Ctrl+Shift+P' to open the command panel, select `Remote-Containers: Reopen in Container`
+- shortcut key `Ctrl+Shift+P` to open the command panel, select `Remote-Containers: Reopen in Container`
 - automatically build the container and wait for completion to access the workspace inside the container
 
 
 ### optional steps
-- build docker
+- build docker [optional]
     ```shell
     docker build . -t samge/lerobot-test-dev-base -f .devcontainer/Dockerfile-dev-base --build-arg PROXY=http://192.168.50.48:7890
     ```
 
-- upload
+- upload [optional]
     ```shell
     docker push samge/lerobot-test-dev-base
     ```
 
 
-### other instructions
+### other instructions [optional]
 - CUDA Toolkit and Minimum Required Driver Version for CUDA Minor Version Compatibility
 Minimum Required Driver Version for CUDA Minor Version Compatibility*
 

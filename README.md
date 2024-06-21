@@ -26,6 +26,8 @@
     <p>State-of-the-art Machine Learning for real-world robotics</p>
 </h3>
 
+[local test readme >> ](README-local.md)
+
 ---
 
 
