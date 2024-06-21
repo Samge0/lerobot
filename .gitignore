@@ -154,3 +154,5 @@ cython_debug/
 .cache/
 .devcontainer/docker-compose.yml
 lerobot/act_aloha_sim_transfer_cube_human
+tests/data
+!lerobot/configs/env
