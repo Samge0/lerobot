@@ -45,3 +45,26 @@ python lerobot/scripts/visualize_dataset.py \
 ![image](https://github.com/Samge0/lerobot/assets/17336101/a1c44a5e-c28d-453a-8d8d-f636e56e4bdf)
 ![image](https://github.com/Samge0/lerobot/assets/17336101/d74d5892-14d3-4547-a985-25f630352707)
 
+
+## log
+[wandb log 20240621](https://wandb.ai/samge/lerobot/runs/jhy9hmpq/logs?nw=nwusersamge)
+step_10000_eval (84%):
+
+success:
+
+
+https://github.com/Samge0/lerobot/assets/17336101/52d300d6-5311-4367-94c3-d88b597d62c5
+
+
+
+https://github.com/Samge0/lerobot/assets/17336101/f45882ce-e40b-4b12-8313-4d25f06ac81c
+
+
+
+https://github.com/Samge0/lerobot/assets/17336101/27e9db6c-0ca1-4e71-8c5d-ae7ec314fa7c
+
+
+fail:
+
+
+https://github.com/Samge0/lerobot/assets/17336101/80f751a7-2570-4b9c-a1c0-737c34d15522
