@@ -31,6 +31,16 @@ wandb.enable=true \
 device=cuda
 ```
 
+## eval
+```shell
+python lerobot/scripts/eval.py \
+-p outputs/train/act_aloha_sim_transfer_cube_human/checkpoints/100000/pretrained_model \
+eval.n_episodes=4 \
+eval.batch_size=4 \
+env.episode_length=300 \
+device=cuda
+```
+
 
 ## demo run
 ```shell
